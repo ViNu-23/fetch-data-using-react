@@ -3,10 +3,10 @@
 This React project utilizes the useState and useEffect hooks to fetch and display user data from a JSON API. The data is fetched asynchronously using the async/await pattern.
 
 ## Installation
-### Clone the repository:
+## Clone the repository:
 
 ## bash
-### Copy code
+## Copy code
 git clone https://github.com/your-username/react-user-data-fetch.git
 
 ## Install dependencies:
