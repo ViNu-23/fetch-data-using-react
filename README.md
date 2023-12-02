@@ -1,4 +1,7 @@
 # Fetching API Data Using React Hooks and Async and await
+
+<img width="500" alt="Screenshot 2023-12-02 220556" src="https://github.com/ViNu-23/fetch-data-using-react/assets/59360964/b37403a5-0220-4933-b39b-488ce0644265">
+
 ## React User Data Fetching
 This React project utilizes the useState and useEffect hooks to fetch and display user data from a JSON API. The data is fetched asynchronously using the async/await pattern.
 
