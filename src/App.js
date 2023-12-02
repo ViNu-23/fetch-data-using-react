@@ -12,7 +12,6 @@ function App() {
   const response = await fetch(url);
   const userData = await response.json();
   setUser(userData);
-  console.log(userData);
 };
   //rendering getData() function only one time while page reloading
   useEffect(() => {
